@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mavisphung
 - 👀 I’m interested in game, a bit coding
-- 🌱 I’m currently learning .NET 5, JS, Angular and Java
+- 🌱 I'm currently senior student at FPT University - HCM Campus
 - 💞️ I’m looking to collaborate on any companies or cooperation with high salary
 - 📫 Contact me via gmail: huypc2410@gmail.com
 
